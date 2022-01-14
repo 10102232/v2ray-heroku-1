@@ -1,6 +1,6 @@
 {
-  "name": "v2ray-heroku",
-  "description": "deploy VV to Heroku.",
+  "name": "112233",
+  "description": "123123.",
   "keywords": [
     "v2ray"
   ],
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/libsgh/v2ray-heroku",
-  "repository": "https://github.com/libsgh/v2ray-heroku",
+  "website": "",
+  "repository": "",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
